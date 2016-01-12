@@ -11,3 +11,7 @@
 [Using a per-user Hosts file](http://blog.tremily.us/posts/HOSTALIASES/)
 
 [Kick-ass hosts file, make it global](http://someonewhocares.org/hosts/)
+
+[Ubuntu docs on ad-hoc wifi](https://help.ubuntu.com/community/WifiDocs/Adhoc)
+
+[Arch docs on ad-hoc wifi](https://wiki.archlinux.org/index.php/Ad-hoc_networking)
