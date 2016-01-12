@@ -10,3 +10,4 @@
 
 [Using a per-user Hosts file](http://blog.tremily.us/posts/HOSTALIASES/)
 
+[Kick-ass hosts file, make it global](http://someonewhocares.org/hosts/)
