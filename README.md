@@ -15,3 +15,7 @@
 [Ubuntu docs on ad-hoc wifi](https://help.ubuntu.com/community/WifiDocs/Adhoc)
 
 [Arch docs on ad-hoc wifi](https://wiki.archlinux.org/index.php/Ad-hoc_networking)
+
+[Soundmodem configuration stuff](http://www.qbjnet.com/packet.html)
+
+[Beginner-friendly Soundmodem tutorial](http://www.george-smart.co.uk/wiki/AX25_Soundmodem)
