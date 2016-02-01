@@ -23,3 +23,5 @@
 [Beginner-friendly Soundmodem tutorial](http://www.george-smart.co.uk/wiki/AX25_Soundmodem)
 
 [Armbian Debian-on-ARM Build ](http://www.armbian.com/github/)
+
+[Generalizable-looking SSD Tuning tips](https://github.com/alghanmi/ubuntu-desktop_setup/wiki/SSD-Configuration-on-Linux)
