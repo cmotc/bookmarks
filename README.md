@@ -25,3 +25,9 @@
 [Armbian Debian-on-ARM Build ](http://www.armbian.com/github/)
 
 [Generalizable-looking SSD Tuning tips](https://github.com/alghanmi/ubuntu-desktop_setup/wiki/SSD-Configuration-on-Linux)
+
+[Gentoo's eudev wiki page](https://wiki.gentoo.org/wiki/Eudev)
+
+[Gentoo's D-Bus wiki page](https://wiki.gentoo.org/wiki/D-Bus)
+
+[Gentoo article on USB device identification/blocking](https://wiki.gentoo.org/wiki/Allow_only_known_usb_devices)
