@@ -31,3 +31,5 @@
 [Gentoo's D-Bus wiki page](https://wiki.gentoo.org/wiki/D-Bus)
 
 [Gentoo article on USB device identification/blocking](https://wiki.gentoo.org/wiki/Allow_only_known_usb_devices)
+
+[Devuan's vdev package. Seriously goddamn tired of systemd today if you can't tell.](https://git.devuan.org/pkgs-utopia-substitution/vdev)
