@@ -24,6 +24,8 @@
 
 [Armbian Debian-on-ARM Build ](http://www.armbian.com/github/)
 
+[Building a bootable SD card](https://olimex.wordpress.com/2012/10/12/building-bootable-sd-card-with-debian-linux-image-for-a13-olinuxino/)
+
 [Generalizable-looking SSD Tuning tips](https://github.com/alghanmi/ubuntu-desktop_setup/wiki/SSD-Configuration-on-Linux)
 
 [Gentoo's eudev wiki page](https://wiki.gentoo.org/wiki/Eudev)
