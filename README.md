@@ -35,3 +35,5 @@
 [Gentoo article on USB device identification/blocking](https://wiki.gentoo.org/wiki/Allow_only_known_usb_devices)
 
 [Devuan's vdev package. Seriously goddamn tired of systemd today if you can't tell.](https://git.devuan.org/pkgs-utopia-substitution/vdev)
+
+[GRSecurity Trusted Path Execution workaround for Desktops](https://forums.grsecurity.net/viewtopic.php?f=3&t=2076)
